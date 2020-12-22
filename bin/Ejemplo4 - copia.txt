@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pr">
+<head>
+	<meta charset="UTF-8">
+	<TITLE>Ejemplo Numero 4</TITLE>
+</HEAD>
+<BODY>
+	<H1>Esta no es mas que otra cosa sin sentido</H1>
+	<H1>¿Porque otro H1?</H1>
+	
+	<img alt="Portada" src="https://i.pinimg.com/736x/43/ea/a4/43eaa46d4d34357d70f7f447615f120b.jpg"height="803"><strong>Portada del segundo album de TOOL</strong>
+	<P>
+		<H3>Cabecera tipo 3</H3>
+		<H5>Cabecera tipo 5</H5>
+		<H6>Cabecera tipo 6</H6>
+		<IMG SRC="bescut.gif"> Where the hell have I been? Sleeping, lost, and numb So glad that I have found you I am wide awake and heading home
+	</P>
+	<P>
+		<IMG SRC="thirdeye.gif">
+		<BR><BR><BR><BR><BR><BR>
+		<A HREF="http://www.TOOL.es/htmlref/ej/img/">pagina de fans de Tool</A>
+	</P>
+	<H2>TABLES</H2>
+	<TABLE>
+		<TR><TD>UNO</TD>
+			<TD>Eleven</TD>
+		</TR>
+		<TR><TD> Hold your light  </TD>
+			<TD>By coming home</TD>
+			<TD>sound</TD>
+		</TR>
+	</TABLE>
+	<TABLE border="5">
+		<TR>
+			<TH></TH>
+			<TH>So glow</TH>
+			<TH>child</TH>
+		</TR>
+		<TR>
+			<TH>glow</TH>
+			<TD>Im heading</TD>
+			<TD>back home</TD>
+		</TR>
+		<TR>
+			<TH>Fila2</th>
+			<TD>TRES</td>
+			<TD>QUATRE</td>
+			<TD>CINC</td>
+		</tr>
+	</TABLE>
+	<mark> <p> Ya va terminado </p> </mark>
+	<BR><BR><BR><BR><BR>
+	<IMG ALT="Wikepedia es lo mas" SRC="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/URI_Euler_Diagram_no_lone_URIs.svg/220px-URI_Euler_Diagram_no_lone_URIs.svg.png">
+	<P><A HREF="https://es.wikipedia.org/wiki/Localizador_de_recursos_uniforme">Pagina muy util y practica </A></p>
+</body>
+</html>
